@@ -1,5 +1,8 @@
 package com.brandyn.chapter03;
 
+/**
+ * Read a character from the keyboard.
+ */
 public class KbIn {
     public static void main(String[] args) throws java.io.IOException {
         char ch;
